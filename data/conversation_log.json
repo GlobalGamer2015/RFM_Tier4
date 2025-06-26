@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cb03894f8f544f5ab1139085be3b2861",
+    "timestamp": 1750900375.085094,
+    "tone": "neutral",
+    "token_data": [
+      {
+        "token": "I",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "feel",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "nervous",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "and",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "agitated",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "but",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      },
+      {
+        "token": "hopeful.",
+        "field_intensity": 0.0,
+        "qualification": "QUALIFIED"
+      }
+    ]
+  }
+]
