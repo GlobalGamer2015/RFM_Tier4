@@ -38,3 +38,4 @@ logs/\
 *.zip\
 *.tar.gz\
 *.tmp}
+.env
